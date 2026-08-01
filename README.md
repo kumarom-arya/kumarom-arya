@@ -7,7 +7,7 @@
 
 <br/>
 
-[<img src="https://media.giphy.com/media/qgQUggCGvnP19XcgUj/giphy.gif" width="240" alt="3D Coder Animation"/>](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXU3NjR1ZzhoaHZ0NG96bXUwa3F2Y3BocnowNW5qbDZrYjhjYmNpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
+<img src="https://media.giphy.com/media/qgQUggCGvnP19XcgUj/giphy.gif" width="240" alt="3D Coder Animation"/>(https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dXU3NjR1ZzhoaHZ0NG96bXUwa3F2Y3BocnowNW5qbDZrYjhjYmNpcyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
 
 <br/><br/>
 
