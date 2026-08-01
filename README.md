@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0B3D0B,100:39FF14&height=230&section=header&text=OM%20KUMAR&fontSize=62&fontColor=39FF14&animation=fadeIn&fontAlignY=34&desc=AI%20%26%20CS%20Engineer%20%7C%20IoT%20%2B%20Edge%20AI%20Builder&descAlignY=54&descSize=19&descColor=c9d1d9" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=780&lines=%3E+booting+up+om_kumar.exe+...;%3E+building+Bio-Logix+%F0%9F%8C%B1+on+an+ESP32;%3E+shipping+Lotus+Fields+%F0%9F%8C%B8+to+production;%3E+turning+coffee+%E2%98%95+into+working+code" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=23&duration=3200&pause=1000&color=39FF14&center=true&vCenter=true&width=820&lines=Hi+there%21+%F0%9F%91%8B+I%27m+Om+Kumar;AI+%26+CS+Undergrad+%40+Parul+University;Building+IoT+%2B+Edge+AI+on+ESP32;Shipping+Bio-Logix+%F0%9F%8C%B1+%26+Lotus+Fields+%F0%9F%8C%B8" alt="Typing SVG" />
 
 <br/>
 
