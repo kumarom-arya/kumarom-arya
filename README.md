@@ -88,13 +88,13 @@ E-commerce platform + brand identity for a startup exporting flavored Makhana an
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=kumarom-arya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14" alt="GitHub Stats" width="49%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarom-arya&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=kumarom-arya&show_icons=true&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&ring_color=39FF14&cache_seconds=3600" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumarom-arya&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&cache_seconds=3600" alt="GitHub Streak" width="49%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kumarom-arya&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8" alt="Top Languages" width="49%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarom-arya&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true" alt="Activity Graph" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=kumarom-arya&layout=compact&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=c9d1d9&langs_count=8&cache_seconds=3600" alt="Top Languages" width="49%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kumarom-arya&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=ffffff&hide_border=true&cache_seconds=3600" alt="Activity Graph" width="49%"/>
 </div>
 
 <div align="center">
