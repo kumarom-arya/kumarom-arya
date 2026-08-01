@@ -98,7 +98,7 @@ E-commerce platform + brand identity for a startup exporting flavored Makhana an
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kumarom-arya&theme=matrix&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=kumarom-arya&theme=dracula&no-frame=true&margin-w=8&row=1" alt="Trophies"/>
 </div>
 
 <br/>
