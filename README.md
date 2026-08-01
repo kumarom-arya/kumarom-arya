@@ -30,8 +30,8 @@
 const omKumar = {
   role: "AI & Computer Science Undergraduate",
   university: "Parul University",
-  semester: 6,
-  cgpa: 6.42,
+  semester: 7,
+  cgpa: 6.63,
   currentlyBuilding: ["Bio-Logix 🌱 (IoT + Edge AI)", "Lotus Fields 🌸 (E-commerce)"],
   passionateAbout: ["High-Performance Computing", "IoT", "Edge AI"],
   funFact: "Explored 10 Indian states 🧳 — last stop: Nainital treks & Mount Abu NYE",
